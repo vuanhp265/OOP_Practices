@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Bai2;
 
 public class BankAccount {
 
